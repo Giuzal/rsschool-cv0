@@ -1,2 +1,2 @@
 # rsschool-cv
-This is my second try for repo in re school
+https://Giuzal.github.io/rsschool-cv/cv
